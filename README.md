@@ -7,7 +7,7 @@
 
 Follow on instagram - @chaniru.lk 
 For more designs and inspiring website development /
-awwwards remakes :-
+awwwards remakes :-)
 
 # Getting Started with Create React App
 
